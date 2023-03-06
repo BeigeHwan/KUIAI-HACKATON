@@ -1,3 +1,4 @@
+![4E846731-1CD4-40D1-B1CB-4AF8AFF83D9B](https://user-images.githubusercontent.com/68181449/223012573-d0422c3b-81c1-4ed9-b8bd-ce4c542eadec.jpeg)
 # KUIAI-HACKATON
 
 사용자 인스타그램 피드 기반 걸맞는 패션 인플루언서 추천 플랫폼 개발
